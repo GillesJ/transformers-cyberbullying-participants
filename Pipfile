@@ -11,6 +11,7 @@ torch = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+torchvision = "*"
 
 [requires]
 python_version = "3.7"

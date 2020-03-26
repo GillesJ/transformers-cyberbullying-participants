@@ -5,7 +5,11 @@ Part of NLE submission.
 ## Install
 This depends on the package [SimpleTransformers](https://github.com/ThilinaRajapakse/simpletransformers).
 
-`pipenv install --python 3.7.5 simpletransformers torch pandas`
+`pipenv install --python 3.7.5 simpletransformers torch pandas torchvision`
+
+or with Pipfile: `pipenv install`
+
+! SET ENV_VAR `CUDA_VISIBLE_DEVICES`: `export CUDA_VISIBLE_DEVICES=0`
 
 ##Tensorboard for checking loss and accuracy
 You need to install Tensorflow to use Tensorboard on your client (simpletransformers actually uses the PyTorch-fork tensorboardx for its tensorboard output and does not depend on TF.):

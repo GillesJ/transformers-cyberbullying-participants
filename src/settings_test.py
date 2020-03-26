@@ -16,9 +16,24 @@ MODEL_DIR = (
 )
 RANDOM_STATE = 42
 
-K_FOLDS = 5
+K_FOLDS = 2
 CV = StratifiedKFold(n_splits=K_FOLDS, shuffle=False, random_state=RANDOM_STATE)
 
-LANGUAGE = "nl"
-RAW_DATA_FP = f"../data/raw/fulldataset_{LANGUAGE}.tsv"
+LANGUAGE = "test"
+RAW_DATA_FP = f"../data/raw/codetestingdataset_{LANGUAGE}.tsv"
 PROC_DATA_FP = f"../data/processed/{LANGUAGE}.tsv"
+
+MODEL_SETTINGS = {
+    "model_type": "roberta",
+    "model_name": "roberta-large",
+    "train_args": {
+        "reprocess_input_data": True,
+        "overwrite_output_dir": True,
+        "num_train_epochs": 1,
+        "n_gpu": 1,
+        "save_steps": 16384,
+        "save_model_every_epoch": False,
+        "fp16": False,
+        "manual_seed": RANDOM_STATE,
+    },
+}

@@ -1,0 +1,501 @@
+	id	text	annotation	vectorfile_label	text_label	y_holdout_true	y_holdout_pred
+0	Askfm_conversation_10000_main_000	Oh My God. :x		-1	not_bullying		
+1	Askfm_conversation_10002_main_000	opinion on Ross Golby?		-1	not_bullying		
+2	Askfm_conversation_10002_main_001	dont know him, I just see him walking past jubilee sometimes?dno		-1	not_bullying		
+3	Askfm_conversation_10002_main_002	Dick size	{u'T1': Harmless_sexual_talk: 95 Dick size}	-1	not_bullying		
+4	Askfm_conversation_10002_main_003	you should know		-1	not_bullying		
+5	Askfm_conversation_10002_main_004	5 prettiest girls you know any order. Answer this fully please		-1	not_bullying		
+6	Askfm_conversation_10002_main_005	Joan Joan Joan Joan Nd Joan		-1	not_bullying		
+7	Askfm_conversation_10002_main_006	Are you bench?		-1	not_bullying		
+8	Askfm_conversation_10002_main_007	No I'm door		-1	not_bullying		
+9	Askfm_conversation_10002_main_008	opinion on::::::::::::::::::::::::::::::::::::::::::::::::::::;;me		-1	not_bullying		
+10	Askfm_conversation_10002_main_009	HA GAAAY		-1	not_bullying		
+11	Askfm_conversation_10002_main_010	What annoys you the most?		-1	not_bullying		
+12	Askfm_conversation_10002_main_011	Kids		-1	not_bullying		
+13	Askfm_conversation_10002_main_012	like=5 likes?		-1	not_bullying		
+14	Askfm_conversation_10002_main_013	No		-1	not_bullying		
+15	Askfm_conversation_10002_main_014	Who is your best mate and why?		-1	not_bullying		
+16	Askfm_conversation_10002_main_015	only have 1 friend		-1	not_bullying		
+17	Askfm_conversation_10002_main_016	Who or what made you smile today?		-1	not_bullying		
+18	Askfm_conversation_10002_main_017	Charlotte getting killed by a daddy long legs		-1	not_bullying		
+19	Askfm_conversation_10002_main_018	Opinion on Charlotte?		-1	not_bullying		
+20	Askfm_conversation_10002_main_019	if you mean Charlotte Innes, she's perfect, like the funniest person i know, she's really pretty and can always make me smile, she flicks bogeys on Skype aswell :/// and farts heaps		-1	not_bullying		
+21	Askfm_conversation_10002_main_020	opinion on isobel hunnisetT		-1	not_bullying		
+22	Askfm_conversation_10002_main_021	Dno		-1	not_bullying		
+23	Askfm_conversation_10002_main_022	how often do u wank		-1	not_bullying		
+24	Askfm_conversation_10002_main_023	Once a year		-1	not_bullying		
+25	Askfm_conversation_10002_main_024	WHAT WAS THE LAST THING U WANKED OVA	{u'T2': Harmless_sexual_talk: 816 WHAT WAS THE LAST TH}	-1	not_bullying		
+26	Askfm_conversation_10002_main_025	Your mums Facebook		-1	not_bullying		
+27	Askfm_conversation_10002_main_026	What's the best thing you can purchase for $5?		-1	not_bullying		
+28	Askfm_conversation_10002_main_027	Head under blackpool pier		-1	not_bullying		
+29	Askfm_conversation_10002_main_028	How often do you think about your future?		-1	not_bullying		
+30	Askfm_conversation_10002_main_029	All time gonna be on the dole with like 5 cats for company and no wife or kids and no friends yh		-1	not_bullying		
+31	Askfm_conversation_10002_main_030	robiie talk to meeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee		-1	not_bullying	-1	-1
+32	Askfm_conversation_10002_main_031	Someone actually speak to me?		-1	not_bullying		
+33	Askfm_conversation_10002_main_032	Who iz da very best year 7 u kno		-1	not_bullying		
+34	Askfm_conversation_10002_main_033	You		-1	not_bullying		
+35	Askfm_conversation_10002_main_034	I am v soz 4 fallin asleep I dropped my phone nd the batt came out and because it didn't vibrate I forgot about it am so soz lol		-1	not_bullying	-1	-1
+36	Askfm_conversation_10002_main_035	Ok soz		-1	not_bullying		
+37	Askfm_conversation_10002_main_036	get toby to do it		-1	not_bullying		
+38	Askfm_conversation_10002_main_037	Ewwwww		-1	not_bullying		
+39	Askfm_conversation_10008_rest_001	Merciiiiiiii.		-1	not_bullying	-1	-1
+40	Askfm_conversation_1000_main_000	I heard u got mad ass work so i think u can whoop that girl hollering ove ask frfrfr nd u look like u got mad work. I seen u at south park fighting some girl ur dipv game crazy two!		-1	not_bullying		
+41	Askfm_conversation_1000_main_001	*dip && Without the work I got I could still whoop her cuz she ain't got no work at all and honestly i don't remember fighting a girl at south rec ? maybe play fighting but not real fighting... && ahaha thanks I know and my hands are A1 just like my twerk game ;) but umm... im done with that trashy trailer thot (Jaeani) when she wana WORK I'll hop up but till then im done with these questions about her or anything that involves her cuz its all gravy till she say something to my face and is ready to get her ass beat tf up :)		-1	not_bullying		
+42	Askfm_conversation_1000_main_002	Jae ain't scared of u Id thank		-1	not_bullying		
+43	Askfm_conversation_1000_main_003	*think & thats what u get for thinking & she ain't gotta be scared to get beat tf up :)		-1	not_bullying		
+44	Askfm_conversation_1000_main_004	You seen Jaeani? why y'all ain't fight???		-1	not_bullying	-1	-1
+45	Askfm_conversation_1000_main_005	Yep ugly, ugly, thot, thot, no ass, big ass head and nose and ugly again and bc she apparently ain't want to! otherwise her scary thot ass would of said something or did something but uhhmm... I assume she know what it is	{u'T2': General_insult: 887 Yep ugly, ugly, u'T7': General_insult: 903 thot, thot, u'T4': General_insult: 923 big ass head and nos, u'T54': General_insult: 1007 her scary thot ass, u'T3': General_insult: 915 no ass, u'T1': 1_Harasser: 885 ¶}	0	harasser		
+46	Askfm_conversation_1000_main_006	Why u ain't say nothing to her?		-1	not_bullying		
+47	Askfm_conversation_1000_main_007	For 1 all my friends would of jumped in like it was they drama 2 my cousin who is grown she was on my tip at the game about me starting shit with her so she said wait for her to say something to me first soo... yea!!		-1	not_bullying		
+48	Askfm_conversation_1000_main_008	Jaeani said u wore high waters lmml		-1	not_bullying		
+49	Askfm_conversation_1000_main_009	Ahaha I wasn't tho why would I buy pants that don't fit ? lol she dumb and scary cuz she ain't say a damn thing to my face but she sure can holler over ask but yea I did wear red on red.. haters gone hate :p but shit iont blame her my shoe game kill em ;)	{u'T6': General_insult: 1466 she dumb and scary, u'T5': 1_Harasser: 1402 ¶}	0	harasser		
+50	Askfm_conversation_1000_main_010	Taylor could never be fat . tf thot yo dumb ass over here hollin . you don't want these problems .	{u'T58': General_insult: 1691 tf thot yo dumb ass , u'T55': Threat_Blackmail: 1730 you don't want these, u'T56': 2_Bystander_defender: 1661 ¶, u'T57': General_defense: 1663 Taylor could never b, u'T83': General_defense: 1730 you don't want these, u'T82': General_defense: 1691 tf thot yo dumb ass }	2	defender		
+51	Askfm_conversation_1000_main_011	I am kinda fat tho lol but thanks bby		-1	not_bullying		
+52	Askfm_conversation_1000_main_012	Fat ass thot	{u'T8': 1_Harasser: 1803 ¶, u'T9': General_insult: 1805 Fat ass thot}	0	harasser		
+53	Askfm_conversation_1000_main_013	yea I know I'm fat but a thot ? nahh faaaaaar from one :)	{u'T10': 1_Victim: 1818 ¶, u'T12': Assertive_selfdef: 1852 nahh faaaaaar from o}	1	victim		
+54	Askfm_conversation_1000_main_014	Who u date? or talking to		-1	not_bullying		
+55	Askfm_conversation_1000_main_015	im talking to 3 people nooo names ;)		-1	not_bullying		
+56	Askfm_conversation_1000_main_016	Do you think that there are any topics that there should be more movies about?		-1	not_bullying		
+57	Askfm_conversation_1000_main_017	Yes! My dick!! ;)		-1	not_bullying		
+58	Askfm_conversation_1000_main_018	Jae can fight but honestly I don't even know if she can beat u ass...		-1	not_bullying		
+59	Askfm_conversation_1000_main_019	"It would of be easier to put idek but ok ? & your* && 1 she can't.... 2 if she was really about it, we would of fought yesterday but all she did was tell her friends shit and walk past me and honestly I ain't say 1 thing about her at the game I was enjoying myself y start with ""THAT"" && 3 y would I fight her anyways ? bc she's a hater ? or bc she was talking shit ? I mean she ain't say a damn thing to my face soooo.... its all gravy. why trip over a thot ? thats to close to falling :)"		-1	not_bullying		
+60	Askfm_conversation_1000_main_020	You date Terrence?		-1	not_bullying		
+61	Askfm_conversation_1000_main_021	Nahh we just talk		-1	not_bullying		
+62	Askfm_conversation_1000_main_022	Taylor could never have an std you dumb ass thot .	{u'T14': General_defense: 2658 Taylor could never h, u'T15': General_insult: 2689 you dumb ass thot, u'T13': 1_Bystander_defender: 2656 ¶}	2	defender		
+63	Askfm_conversation_1000_main_023	Lol right tho! Thx bby :*		-1	not_bullying		
+64	Askfm_conversation_1000_main_024	What is the most expensive thing you've ever bought?		-1	not_bullying		
+65	Askfm_conversation_1000_main_025	My dick	{u'T59': Harmless_sexual_talk: 2795 My dick}	-1	not_bullying		
+66	Askfm_conversation_1000_main_026	ew bitch u have an STD?	{u'T16': 1_Harasser: 2804 ¶, u'T17': Defamation: 2806 ew bitch u have an S, u'T18': General_insult: 2806 ew bitch}	0	harasser		
+67	Askfm_conversation_1000_main_027	Yea I have an STD its called these hands keep playing u gone start catching these bitches	{u'T21': Sarcasm: 2832 Yea I have an STD it, u'T20': Assertive_selfdef: 2832 Yea I have an STD it, u'T19': 1_Victim: 2830 ¶}	1	victim		
+68	Askfm_conversation_1000_main_028	Jaeani said u needa stfu so stfu	{u'T23': Curse_Exclusion: 2925 Jaeani said u needa , u'T22': 1_Harasser: 2923 ¶}	0	harasser		
+69	Askfm_conversation_1000_main_029	Can't whoop me		-1	not_bullying		
+70	Askfm_conversation_1000_main_030	no Im not !!!!!		-1	not_bullying	-1	-1
+71	Askfm_conversation_1000_main_031	"YES U ARE MARIA! && LOLOOOOOOOOLOLOL WHAT U SAID ABOUT THAT THOT NOT SAYING SHIIIIIT TO MY FACE AT THE GAME!!!!! AHAHAHAHAHA CTTFFUUU!!!!! :"") :')"	{u'T29': General_insult: 3056 THOT, u'T30': Curse_Exclusion: 3109 AHAHAHAHAHA CTTFFUUU, u'T26': 1_Harasser: 2994 ¶}	0	harasser		
+72	Askfm_conversation_1000_main_032	i see youuuuu ;)		-1	not_bullying		
+73	Askfm_conversation_1000_main_033	Duh ur sitting next to me -_-!!		-1	not_bullying		
+74	Askfm_conversation_1000_main_034	why dat girl worried about what u say about another person? ? if I isn't her why she on you're tip??		-1	not_bullying		
+75	Askfm_conversation_1000_main_035	Thanks anon that's my exact point!		-1	not_bullying		
+76	Askfm_conversation_1000_main_036	What is the least stressful job you can think of?		-1	not_bullying		
+77	Askfm_conversation_1000_main_037	I don't fucking know		-1	not_bullying		
+78	Askfm_conversation_1000_main_038	imao hell naw , I don't use Taylor . tf . y'all niggas dumb asf . mad for what ? you can take yo shit off anonymous or fall tf back (;	{u'T61': Racism: 3465 niggas, u'T60': General_insult: 3459 y'all niggas dumb as, u'T62': 1_Victim: 3415 ¶}	1	victim		
+79	Askfm_conversation_1000_main_039	Ohh..		-1	not_bullying		
+80	Askfm_conversation_1000_main_040	Devan isn't yo friend she using u to fight her battles,,		-1	not_bullying		
+81	Askfm_conversation_1000_main_041	mhmmm...		-1	not_bullying		
+82	Askfm_conversation_1000_main_042	loo , you would never be this stupid . I said you were a thot bc you om every nigga tip , you were the only one to brimg up sex , dumb thot . but its whatever you can't help your a stupid hoe , I would say life would get better , but it doesnt for thirsty thots . bye thottie ;**	{u'T34': General_insult: 3776 but its whatever you, u'T65': General_insult: 3902 thottie, u'T64': General_insult: 3673 I said you were a th, u'T63': Defamation: 3724 you were the only on, u'T78': General_insult: 3640 you would never be t, u'T35': General_insult: 3828 I would say life wou, u'T32': Defamation: 3699 you om every nigga t, u'T33': General_insult: 3764 dumb thot, u'T31': 2_Harasser: 3632 ¶}	0	harasser		
+83	Askfm_conversation_1000_main_043	Thots fuck and suck thats y bitch and no I only fucked with 2 people from eastern heights and 3 niggas from mine 5 niggas in a year ? & ima thot ? suuure lol u mess with 5 people at a time bitch! And neva on anyone's dick but it seems ur on mine :* having fun ? Jordan and Damon both stay on my dick iont like them they like me so get ya facts straight! I talk to none now so how tf am I on anyone's tip ? bitch u sound dumb asf! & U DON'T KNOW ME AT ALL! NO ONE DOES! LIVE MY LIFE THEN TELL ME U KNOW BC BITCH U DON'T FUCKING KNOW A THING BUT MY NAME AND 2 PEOPLE I'VE TALKED TO SOOOOO BIIIIIIITCH HOP TF OFF!!!! ON MY TIP FOR WHYYYY ? MAD FOR WHYYYY ? CALLING ME A THOT FOR WHYYY ? SUCKING MANY DICKS FOR WHYYYY ? U DON'T RUN SHIT BITCH SO LEAVE ME TF ALONE! GET YA LIFE TOGETHER BBG, I GOT MINES TOGETHER! K ? K BYEEEEEEEEE U RATTY ASS THOT! :)	{u'T68': Assertive_selfdef: 4348 U DON'T KNOW ME AT A, u'T73': Powerless_selfdef: 4570 CALLING ME A THOT FO, u'T67': General_insult: 4322 bitch u sound dumb a, u'T66': General_insult: 3916 Thots fuck and suck , u'T72': Curse_Exclusion: 4496 SOOOOO BIIIIIIITCH H, u'T28': Powerless_selfdef: 4553 MAD FOR WHYYYY ?, u'T70': Assertive_selfdef: 4385 LIVE MY LIFE THEN TE, u'T71': General_insult: 4421 BITCH, u'T76': Curse_Exclusion: 4677 GET YA LIFE TOGETHER, u'T77': General_insult: 4731 BYEEEEEEEEE U RATTY , u'T74': Powerless_selfdef: 4600 SUCKING MANY DICKS F, u'T75': Assertive_selfdef: 4632 U DON'T RUN SHIT BIT, u'T36': 2_Victim: 3914 ¶, u'T37': Assertive_selfdef: 4247 get ya facts straigh, u'T25': Assertive_selfdef: 4496 SOOOOO BIIIIIIITCH H, u'T24': Assertive_selfdef: 4322 bitch u sound dumb a, u'T27': Assertive_selfdef: 4677 GET YA LIFE TOGETHER}	1	victim		
+84	Askfm_conversation_1000_main_044	Sttfu u nd that devan bitch are thots so stfu butch!	{u'T38': 1_Harasser: 4765 ¶, u'T39': General_insult: 4767 Sttfu u nd that deva}	0	harasser		
+85	Askfm_conversation_1000_main_046	no , no , no . tf you look like saying hoe check , when you the only hoe lmao . im not repeating Devin me and him obviously both know the truth . but shit thots will be thots so live your life spreading STDS , idgaf .Bye ninja turtle ;;*	{u'T43': General_insult: 4972 but shit thots will , u'T42': General_insult: 4877 when you the only ho, u'T41': General_insult: 4841 tf you look like say, u'T40': 1_Harasser: 4824 ¶}	0	harasser		
+86	Askfm_conversation_1000_main_047	I look like TAYLOR saying hoe check tf bitch ? & You and Devin know nothing plus he's calling me a thot for a whole other reason something Jordan told him ur calling me a thot bc u Assume I've had sex and suck dick but sorry unknown thats u! && kinda impossible to spread something u don't got lmfao ur dismissed thot ;*	{u'T69': Powerless_selfdef: 5066 I look like TAYLOR s, u'T46': General_insult: 5366 ur dismissed thot, u'T45': Assertive_selfdef: 5115 You and Devin know n, u'T44': 1_Victim: 5064 ¶}	1	victim		
+87	Askfm_conversation_1000_main_048	Lmao duh . I gotta keep hoes like you in check .	{u'T48': General_insult: 5401 I gotta keep hoes li, u'T47': 1_Harasser: 5388 ¶}	0	harasser	0	0
+88	Askfm_conversation_1000_main_049	"Lol nah I got yo ass in check I said be gone and yo thot ass said bye so byyyeeeeeeeee bitch tf? talking shit for whyyyy ? u ont even know me tf ? Just repeating Devins words ""thot"" everyone who actually knows me knows im faaaaaar from a thot! neva had sex or sucked a dick like u bitch, so ummm hop tf off with that thot shit cuzz bbg u the only thot in this shit :* Bye u low life rat"	{u'T49': 1_Victim: 5439 ¶, u'T84': Assertive_selfdef: 5685 neva had sex or suck, u'T50': General_insult: 5813 u low life rat, u'T51': Defamation: 5685 neva had sex or suck, u'T52': General_insult: 5737 hop tf off with that, u'T53': Curse_Exclusion: 5449 I got yo ass in chec, u'T11': Powerless_selfdef: 5538 talking shit for why, u'T86': Assertive_selfdef: 5809 Bye u low life rat, u'T85': Assertive_selfdef: 5737 hop tf off with that, u'T79': Assertive_selfdef: 5449 I got yo ass in chec, u'T81': Assertive_selfdef: 5663 faaaaaar from a thot, u'T80': Powerless_selfdef: 5564 u ont even know me t}	1	victim		
+89	Askfm_conversation_10015_main_000	I think I know but I don't want to get it wrong lol		-1	not_bullying		
+90	Askfm_conversation_10015_main_001	Algud if you botz it lolz		-1	not_bullying		
+91	Askfm_conversation_10015_main_002	Why not?		-1	not_bullying		
+92	Askfm_conversation_10015_main_003	Just because		-1	not_bullying		
+93	Askfm_conversation_10015_main_004	Are you coming to the party?		-1	not_bullying		
+94	Askfm_conversation_10015_main_005	Nah jak		-1	not_bullying		
+95	Askfm_conversation_10015_main_006	Are you sure you dont like anyone?		-1	not_bullying		
+96	Askfm_conversation_10015_main_007	Lol maybe why? Who do you think it is?		-1	not_bullying		
+97	Askfm_conversation_10015_main_008	Have you ever been in love?		-1	not_bullying		
+98	Askfm_conversation_10015_main_009	Yup :\		-1	not_bullying		
+99	Askfm_conversation_10015_main_010	Do you still like anyone?		-1	not_bullying		
+100	Askfm_conversation_10015_main_011	Lol you're really asking me this question right now... No I dont I CBF with it anymore		-1	not_bullying		
+101	Askfm_conversation_10015_main_012	No?		-1	not_bullying		
+102	Askfm_conversation_10015_main_013	Do you want a medal?		-1	not_bullying		
+103	Askfm_conversation_10015_main_014	You ok?		-1	not_bullying		
+104	Askfm_conversation_10015_main_015	What do you think?		-1	not_bullying		
+105	Askfm_conversation_10015_main_016	Whoa, what happend?		-1	not_bullying		
+106	Askfm_conversation_10015_main_017	Everything. But fuck it, who cares		-1	not_bullying	-1	0
+107	Askfm_conversation_10015_main_018	U lil fgt	{u'T2': General_insult: 513 U lil fgt, u'T1': 1_Harasser: 511 ¶}	0	harasser		
+108	Askfm_conversation_10015_main_019	Im really not in the fuckn mood bro so just no		-1	not_bullying		
+109	Askfm_conversation_10015_main_020	What are you doing?		-1	not_bullying		
+110	Askfm_conversation_10015_main_021	Partying on a tuesday, ikr wtf i really need to leave before I feel like shit tomorrow lol good night :)		-1	not_bullying		
+111	Askfm_conversation_10015_main_022	What are your super cheap great gift ideas?		-1	not_bullying		
+112	Askfm_conversation_10015_main_023	Im not gonna tell you my cheap ass secrets		-1	not_bullying		
+113	Askfm_conversation_10015_main_024	When you imagine yourself as really, really relaxed and happy, what are you doing?		-1	not_bullying		
+114	Askfm_conversation_10015_main_025	Da hell are deez questions, tryna set me up		-1	not_bullying	-1	-1
+115	Askfm_conversation_10015_main_026	Do you want to be famous?		-1	not_bullying	-1	-1
+116	Askfm_conversation_10015_main_027	Who doesnt?		-1	not_bullying		
+117	Askfm_conversation_10015_main_028	What helps you to sleep better?		-1	not_bullying		
+118	Askfm_conversation_10015_main_029	Dat question		-1	not_bullying		
+119	Askfm_conversation_10015_main_030	What is the least stressful job you can think of?		-1	not_bullying		
+120	Askfm_conversation_10015_main_031	Lying down :)		-1	not_bullying		
+121	Askfm_conversation_10015_main_032	What do you want right now?		-1	not_bullying		
+122	Askfm_conversation_10015_main_033	Lol this question tho		-1	not_bullying		
+123	Askfm_conversation_10015_main_034	What’s the best gift you have ever given someone, in your opinion?		-1	not_bullying		
+124	Askfm_conversation_10015_main_035	KFC FTW		-1	not_bullying	-1	-1
+125	Askfm_conversation_10015_main_036	Which websites do you visit daily?		-1	not_bullying		
+126	Askfm_conversation_10015_main_037	Pornhub totes, all day erryday		-1	not_bullying		
+127	Askfm_conversation_10015_main_038	What are you currently addicted to?		-1	not_bullying	-1	-1
+128	Askfm_conversation_10015_main_039	Partying		-1	not_bullying	-1	-1
+129	Askfm_conversation_10015_main_040	What makes you laugh the most?		-1	not_bullying		
+130	Askfm_conversation_10015_main_041	Idk haha I laugh too much hahaha		-1	not_bullying		
+131	Askfm_conversation_10015_main_042	What is the most popular lie, people tell to each other?		-1	not_bullying		
+132	Askfm_conversation_10015_main_043	I didnt even study I lift Rhys has a chode lol		-1	not_bullying		
+133	Askfm_conversation_10015_main_044	What are you waiting for?		-1	not_bullying		
+134	Askfm_conversation_10015_main_045	Wot?		-1	not_bullying	-1	-1
+135	Askfm_conversation_10017_main_000	what mkes you sad?		-1	not_bullying	-1	-1
+136	Askfm_conversation_10017_main_001	when your mums pubes are longer then your dads ~.^	{u'T6': 1_Harasser: 21 ¶, u'T5': Attacking_relatives: 23 when your mums pubes}	0	harasser		
+137	Askfm_conversation_10017_main_002	If you feel stressed what would you do to reduce it?		-1	not_bullying		
+138	Askfm_conversation_10017_main_003	the morning fufs co.		-1	not_bullying		
+139	Askfm_conversation_10017_main_004	Ahahahaha omg remember when my tumblr name used to be a very sexy beast hahahahaha		-1	not_bullying		
+140	Askfm_conversation_10017_main_005	"""a-very-sexy-beast is now following you"" hahahahaha gooood times good memories HAHA"		-1	not_bullying		
+141	Askfm_conversation_10017_main_006	in all honesty hu are your top5 friends??		-1	not_bullying		
+142	Askfm_conversation_10017_main_007	your dad		-1	not_bullying	-1	0
+143	Askfm_conversation_10017_main_008	Is tori sexy hahahahaha		-1	not_bullying		
+144	Askfm_conversation_10017_main_009	tote's sexy beast hahaha		-1	not_bullying	-1	-1
+145	Askfm_conversation_10017_main_010	your a bitch	{u'T2': General_insult: 438 your a bitch, u'T1': 1_Harasser: 436 ¶}	0	harasser		
+146	Askfm_conversation_10017_main_011	go fuck yourself sideways, up and down.	{u'T7': Assertive_selfdef: 453 go fuck yourself sid, u'T4': General_insult: 453 go fuck yourself sid, u'T3': 1_Victim: 451 ¶}	1	victim		
+147	Askfm_conversation_10017_main_012	Why is your name lily if your a guy? Whaaaaa?		-1	not_bullying		
+148	Askfm_conversation_10017_main_013	thats my boyfriend in my dp ;-) hes from amuuuuurica......... he doesnt know me..yet.		-1	not_bullying		
+149	Askfm_conversation_10017_main_014	its nearly ur birthday hahahar		-1	not_bullying	-1	-1
+150	Askfm_conversation_10017_main_015	i didn't even notice haha thanks for reminding me.		-1	not_bullying		
+151	Askfm_conversation_10017_main_016	ure anti u changes		-1	not_bullying		
+152	Askfm_conversation_10017_main_017	sorry. i don't wanna talk to anyone these days. cept for ctttjjjdlmo. if your name starts with any of those letters and i talk to you then you are my people, i like you people cos you people make me happy :D		-1	not_bullying		
+153	Askfm_conversation_10017_main_018	hhahah what duz that mean?		-1	not_bullying		
+154	Askfm_conversation_10017_main_019	you're dumb eah. haha na kidding, it's like the same as saying don't use money on something that you don't need. you gotta be smart with $$$. use it on something useful and be wise with yo money. eat to live but don't live to eat, don't use your money on food ALL THE TIME. like bro if you have food at home then eat that haha.	{u'T8': General_insult: 981 you're dumb eah}	-1	not_bullying		
+155	Askfm_conversation_10017_main_020	one sying u like?		-1	not_bullying		
+156	Askfm_conversation_10017_main_021	live to eat but don't eat to live.		-1	not_bullying		
+157	Askfm_conversation_10017_main_022	Dear person I hate, Dear person I like, Dear ex boyfriend, Dear ex girlfriend, Dear ex best friend, Dear best friend, Dear *anyone*, Dear Santa, Dear mom, Dear dad, Dear future me, Dear past me, Dear person I’m jealous of, Dear person I had a crush on, Dear girlfriend, Dear boyfriend....		-1	not_bullying		
+158	Askfm_conversation_10017_main_023	dear anon, what is your question?		-1	not_bullying		
+159	Askfm_conversation_10017_main_024	hoi boooo, follow ma new page:p		-1	not_bullying		
+160	Askfm_conversation_10017_main_025	umm where? you on anon brew lol		-1	not_bullying		
+161	Askfm_conversation_10017_main_026	any new frends?		-1	not_bullying	-1	-1
+162	Askfm_conversation_10017_main_027	i don't need new friends.		-1	not_bullying		
+163	Askfm_conversation_10017_main_028	I'm at work:( this is the only site that works on these faggity computers lol.		-1	not_bullying		
+164	Askfm_conversation_10017_main_029	naaaaaaaw :-( haha what you doing? are you even on hhaha		-1	not_bullying	-1	-1
+165	Askfm_conversation_10017_main_030	what ya doing today xxxxx		-1	not_bullying		
+166	Askfm_conversation_10017_main_031	babysitting my nephew today, he doesnt wanna go school the little shizz. wbu xoxox		-1	not_bullying		
+167	Askfm_conversation_10017_main_032	who do u talk to on a regular basis on the net??		-1	not_bullying		
+168	Askfm_conversation_10017_main_033	my destiny xoxoxoxoxoxox		-1	not_bullying		
+169	Askfm_conversation_10017_main_034	whos dat in ya dp?		-1	not_bullying		
+170	Askfm_conversation_10017_main_035	my boyfriend.. he doesn't know me yet lmfaaao.		-1	not_bullying		
+171	Askfm_conversation_10017_main_036	what ya beeeen uptooooo?		-1	not_bullying	-1	-1
+172	Askfm_conversation_10017_main_037	travelling the world and stufffffffffff ;) na'mean haha.		-1	not_bullying		
+173	Askfm_conversation_10017_main_038	do you like rewa/		-1	not_bullying		
+174	Askfm_conversation_10017_main_039	nope i like your dad.		-1	not_bullying		
+175	Askfm_conversation_10017_main_040	have you hd a threesome before?		-1	not_bullying		
+176	Askfm_conversation_10017_main_041	nearly had one lastnight, just needed two more people. hahahahahahahha i'm funny yup i know.		-1	not_bullying	-1	-1
+177	Askfm_conversation_1001_main_000	Have you ever visited America?		-1	not_bullying		
+178	Askfm_conversation_1001_main_001	not yet ;)		-1	not_bullying		
+179	Askfm_conversation_1001_main_002	do you have a favourite singer(s)? :)		-1	not_bullying		
+180	Askfm_conversation_1001_main_003	Yes, Ellie Goulding and Justin Timberlake :)		-1	not_bullying		
+181	Askfm_conversation_10020_main_000	shirley isnt coming then?		-1	not_bullying		
+182	Askfm_conversation_10020_main_001	Oh god no not Shirley.. And now it's raining-.-		-1	not_bullying	-1	-1
+183	Askfm_conversation_10020_main_002	can you not photo bomb my selfie please		-1	not_bullying		
+184	Askfm_conversation_10020_main_003	sorry, the carnival just made me crazy		-1	not_bullying		
+185	Askfm_conversation_10020_main_004	love the thing thats on top of the ask :)		-1	not_bullying		
+186	Askfm_conversation_10020_main_005	Haha thanks x		-1	not_bullying	-1	-1
+187	Askfm_conversation_10020_main_006	love ur eyes		-1	not_bullying		
+188	Askfm_conversation_10020_main_007	Thank you:)		-1	not_bullying		
+189	Askfm_conversation_10020_main_008	Who are your best friends?		-1	not_bullying		
+190	Askfm_conversation_10020_main_010	I LUFF U SO MUCH REECH 4 DA STARZ		-1	not_bullying		
+191	Askfm_conversation_10020_main_011	CLIMB EVRY MOUNTIN HII AND REECH		-1	not_bullying		
+192	Askfm_conversation_10020_main_012	What can you do to make this world a better place?		-1	not_bullying		
+193	Askfm_conversation_10020_main_013	At least put a McDonalds in exmouth		-1	not_bullying		
+194	Askfm_conversation_10020_main_014	My ask is playing up, is yours? -don't be creeped out by this question just thought that it might have done what snapchat did:/  •~{SENT TO ALL FOLLOWERS}~•		-1	not_bullying		
+195	Askfm_conversation_10020_main_015	No haha who is this		-1	not_bullying		
+196	Askfm_conversation_10020_main_016	What do you usually forget?		-1	not_bullying		
+197	Askfm_conversation_10020_main_017	My skates from rehearsals		-1	not_bullying		
+198	Askfm_conversation_10020_main_018	Opinions on Harry Rushton		-1	not_bullying		
+199	Askfm_conversation_10020_main_019	Hahahahaaa		-1	not_bullying		
+200	Askfm_conversation_10020_main_020	I love myself		-1	not_bullying		
+201	Askfm_conversation_10020_main_021	Me too		-1	not_bullying	-1	-1
+202	Askfm_conversation_10020_main_022	You're such a fanny person		-1	not_bullying		
+203	Askfm_conversation_10020_main_023	They don't call me fanny for nothing		-1	not_bullying		
+204	Askfm_conversation_10020_main_024	Emma Chudley is hot, agree?		-1	not_bullying		
+205	Askfm_conversation_10020_main_025	Umm no		-1	not_bullying		
+206	Askfm_conversation_10020_main_026	Who was the last person you gave a gift to?		-1	not_bullying		
+207	Askfm_conversation_10020_main_027	Si		-1	not_bullying		
+208	Askfm_conversation_10020_main_028	If a turtle doesn't have a shell is it  homeless or naked?		-1	not_bullying		
+209	Askfm_conversation_10020_main_029	It would look like this Pahaha		-1	not_bullying		
+210	Askfm_conversation_10020_main_030	Who's this 'Si' person?		-1	not_bullying		
+211	Askfm_conversation_10020_main_031	Oh just the bet person you'll ever meet		-1	not_bullying		
+212	Askfm_conversation_10020_main_032	why've you got a load of likes		-1	not_bullying		
+213	Askfm_conversation_10020_main_033	Someone spammed me lol		-1	not_bullying	-1	-1
+214	Askfm_conversation_10020_main_034	Q: what's your biggest fear ? :3		-1	not_bullying		
+215	Askfm_conversation_10020_main_035	Spiders		-1	not_bullying		
+216	Askfm_conversation_10020_main_036	get in my van		-1	not_bullying		
+217	Askfm_conversation_10020_main_037	Ice cream?		-1	not_bullying		
+218	Askfm_conversation_10020_main_038	youre such a slut	{u'T2': General_insult: 1222 youre such a slut, u'T1': 1_Harasser: 1220 ¶}	0	harasser		
+219	Askfm_conversation_10020_main_039	Lol		-1	not_bullying		
+220	Askfm_conversation_10022_main_000	What are the first things you notice when you meet someone?		-1	not_bullying		
+221	Askfm_conversation_10022_main_001	Their attitude		-1	not_bullying		
+222	Askfm_conversation_10022_main_002	If you were a scientist, what would you invent?		-1	not_bullying		
+223	Askfm_conversation_10022_main_003	Um this is gonna sound weird but id invent a new form of human being		-1	not_bullying		
+224	Askfm_conversation_10022_main_004	What's your favorite smell?		-1	not_bullying		
+225	Askfm_conversation_10022_main_005	Vanila		-1	not_bullying		
+226	Askfm_conversation_10022_main_006	got anything to video chat on:) your cute		-1	not_bullying	-1	-1
+227	Askfm_conversation_10022_main_007	No im sorry but thank you I bet ur cute too		-1	not_bullying		
+228	Askfm_conversation_10022_main_008	What did you have for breakfast this morning?		-1	not_bullying		
+229	Askfm_conversation_10022_main_009	Um a bagel		-1	not_bullying		
+230	Askfm_conversation_10022_main_010	tbh I have no idea who you are I'm sorry lol		-1	not_bullying		
+231	Askfm_conversation_10022_main_011	lol okay		-1	not_bullying		
+232	Askfm_conversation_10022_main_012	did u make a new kik?		-1	not_bullying		
+233	Askfm_conversation_10022_main_013	nahhhh		-1	not_bullying		
+234	Askfm_conversation_10022_main_014	Who r u dating		-1	not_bullying		
+235	Askfm_conversation_10022_main_015	a person lol		-1	not_bullying		
+236	Askfm_conversation_10022_main_016	anything i can hit u up on you are sweet and cute:)		-1	not_bullying		
+237	Askfm_conversation_10022_main_017	who is this if u tell me then maybe!!		-1	not_bullying		
+238	Askfm_conversation_10022_main_018	Have you ever stolen anything?		-1	not_bullying		
+239	Askfm_conversation_10022_main_019	no		-1	not_bullying		
+240	Askfm_conversation_10022_main_020	Are you usually the heart breaker or the heart broken?		-1	not_bullying		
+241	Askfm_conversation_10022_main_021	heart broken		-1	not_bullying		
+242	Askfm_conversation_10022_main_022	What was the last life-changing decision you had to make?		-1	not_bullying		
+243	Askfm_conversation_10022_main_023	white or milk chocolate...lol		-1	not_bullying		
+244	Askfm_conversation_10022_main_024	What is the quality you most like in a woman?		-1	not_bullying		
+245	Askfm_conversation_10022_main_025	um idk im not a lesbian		-1	not_bullying		
+246	Askfm_conversation_10022_main_026	grade A+		-1	not_bullying		
+247	Askfm_conversation_10022_main_027	thankss		-1	not_bullying		
+248	Askfm_conversation_10022_main_028	r u ready for my party		-1	not_bullying		
+249	Askfm_conversation_10022_main_029	helll yeahhhh		-1	not_bullying		
+250	Askfm_conversation_10022_main_030	ur not pretty at all	{u'T2': General_insult: 962 ur not pretty at all, u'T1': 1_Harasser: 960 ¶}	0	harasser		
+251	Askfm_conversation_10022_main_031	lol	{u'T4': Assertive_selfdef: 985 lol, u'T3': 1_Victim: 983 ¶}	1	victim		
+252	Askfm_conversation_10022_main_032	that was me duhhhhhhhh (did u like church)		-1	not_bullying		
+253	Askfm_conversation_10022_main_033	yeahhhh		-1	not_bullying		
+254	Askfm_conversation_10022_main_034	skype?		-1	not_bullying		
+255	Askfm_conversation_10022_main_035	no		-1	not_bullying		
+256	Askfm_conversation_10022_main_036	did u enjoy church		-1	not_bullying		
+257	Askfm_conversation_10022_main_037	who is this and yes		-1	not_bullying		
+258	Askfm_conversation_10022_main_038	If you were a burger at McDonalds, you'd be McGorgeous. ;)		-1	not_bullying		
+259	Askfm_conversation_10022_main_039	aww thats so sweet		-1	not_bullying		
+260	Askfm_conversation_10022_main_040	Do you have official Ask.fm app for Android?		-1	not_bullying		
+261	Askfm_conversation_10022_main_041	no		-1	not_bullying		
+262	Askfm_conversation_10023_main_000	Have you ever been in love?		-1	not_bullying		
+263	Askfm_conversation_10023_main_001	Yes,Yes i have..IM IN FUCKING LOVE!!!!!!!!!!!!!!!!!!!!!!!		-1	not_bullying		
+264	Askfm_conversation_10023_main_002	Do you think that there are any topics that there should be more movies about?		-1	not_bullying	-1	-1
+265	Askfm_conversation_10023_main_003	No,what a load of wank!		-1	not_bullying		
+266	Askfm_conversation_10023_main_004	Who stuffed their bra? Just give initials		-1	not_bullying		
+267	Askfm_conversation_10023_main_005	If you want to know how about inbox me?		-1	not_bullying		
+268	Askfm_conversation_10023_main_006	Name any 3 things that make you smile?		-1	not_bullying		
+269	Askfm_conversation_10023_main_007	A compliment from someone i like:')  Seeing my bestfriend:-) Seeing my bestfriend happy:*		-1	not_bullying		
+270	Askfm_conversation_10023_main_008	Do you think that you’re a good person?		-1	not_bullying	-1	-1
+271	Askfm_conversation_10023_main_009	i suppose? not a bad person really? Maybe not what others think but..		-1	not_bullying		
+272	Askfm_conversation_10023_main_010	What is the least stressful job you can think of?		-1	not_bullying		
+273	Askfm_conversation_10023_main_011	No job?		-1	not_bullying		
+274	Askfm_conversation_10023_main_012	What is your attitude to human cloning?		-1	not_bullying	-1	-1
+275	Askfm_conversation_10023_main_013	SPAM ME WITH LIKES OR QUESTIONS ILL DO IT BACK SO FUCKING BORED.		-1	not_bullying		
+276	Askfm_conversation_10023_main_014	What is missing in your life that would make you very happy?		-1	not_bullying		
+277	Askfm_conversation_10023_main_015	Rather not say:/ But a cute relationship could be a start!!!!!!		-1	not_bullying		
+278	Askfm_conversation_10023_main_016	Who was the last person you gave a gift to?		-1	not_bullying	-1	-1
+279	Askfm_conversation_10023_main_017	Lydia i think?:S		-1	not_bullying		
+280	Askfm_conversation_10023_main_018	What will the future be like?		-1	not_bullying		
+281	Askfm_conversation_10023_main_019	Hopefully great:-)		-1	not_bullying		
+282	Askfm_conversation_10023_main_020	What fruit do you eat the most often?		-1	not_bullying		
+283	Askfm_conversation_10023_main_021	Grapes:)		-1	not_bullying		
+284	Askfm_conversation_10023_main_022	does juggling jim turn you on :p	{u'T2': Harmless_sexual_talk: 1012 does juggling jim tu}	-1	not_bullying		
+285	Askfm_conversation_10023_main_023	Yessss:O		-1	not_bullying		
+286	Askfm_conversation_10023_main_025	I'm not a Google translator.		-1	not_bullying		
+287	Askfm_conversation_10023_main_026	What's your favorite smell?		-1	not_bullying		
+288	Askfm_conversation_10023_main_027	coconut body butter:)		-1	not_bullying		
+289	Askfm_conversation_10023_main_028	hmm..i know a secret;)		-1	not_bullying		
+290	Askfm_conversation_10023_main_029	That's fucking fantastic:-)		-1	not_bullying		
+291	Askfm_conversation_10023_main_030	You forgot the full stop?		-1	not_bullying	-1	-1
+292	Askfm_conversation_10023_main_031	* . better?		-1	not_bullying		
+293	Askfm_conversation_10023_main_032	Silly Slut?	{u'T3': General_insult: 1261 Silly Slut?}	-1	not_bullying		
+294	Askfm_conversation_10023_main_033	get it right 'SiLlySlUt'		-1	not_bullying		
+295	Askfm_conversation_10023_main_034	What did you have for breakfast this morning?		-1	not_bullying		
+296	Askfm_conversation_10023_main_035	Don't normally eat breakfast,but a activia yogurt;)		-1	not_bullying		
+297	Askfm_conversation_10023_main_036	Is there any person you are afraid of?		-1	not_bullying		
+298	Askfm_conversation_10023_main_037	erm..? dont think soo..		-1	not_bullying		
+299	Askfm_conversation_10023_main_038	bestfriends?		-1	not_bullying		
+300	Askfm_conversation_10023_main_039	sandra,lydia,sophie:) and some others but they're my main ones:''''')		-1	not_bullying	-1	-1
+301	Askfm_conversation_10024_main_000	What is one thing you have tried to change, but couldn't?		-1	not_bullying		
+302	Askfm_conversation_10024_main_001	You know when you do something really stupid Lol and you wish you could go back in time and and change it but you can't so your kinda stuck?		-1	not_bullying		
+303	Askfm_conversation_10024_main_002	Who was the last person you hugged?		-1	not_bullying		
+304	Askfm_conversation_10024_main_003	Dad		-1	not_bullying	-1	-1
+305	Askfm_conversation_10024_main_004	What's the most interesting object in your room?		-1	not_bullying	-1	-1
+306	Askfm_conversation_10024_main_005	My pillow		-1	not_bullying		
+307	Askfm_conversation_10024_main_006	What is the most popular lie, people tell to each other?		-1	not_bullying		
+308	Askfm_conversation_10024_main_007	"""Don't worry, im going to be there for you"" bullshit:') haha"		-1	not_bullying		
+309	Askfm_conversation_10024_main_008	Have you ever been in love?		-1	not_bullying		
+310	Askfm_conversation_10024_main_009	Lol my dad has		-1	not_bullying		
+311	Askfm_conversation_10024_main_010	Love or Hate?		-1	not_bullying		
+312	Askfm_conversation_10024_main_011	Crisps		-1	not_bullying		
+313	Askfm_conversation_10024_main_012	How much would it cost to buy your love?		-1	not_bullying		
+314	Askfm_conversation_10024_main_013	That's just gay...		-1	not_bullying		
+315	Askfm_conversation_10024_main_014	HOW are u ??		-1	not_bullying		
+316	Askfm_conversation_10024_main_015	I'm okay wby?:)		-1	not_bullying		
+317	Askfm_conversation_10024_main_016	What is the most important lesson you’ve learned in life?		-1	not_bullying	-1	-1
+318	Askfm_conversation_10024_main_017	Don't trust anyone, just yourself.		-1	not_bullying		
+319	Askfm_conversation_10024_main_018	Do you think it is right to keep wild animals in a zoo?		-1	not_bullying		
+320	Askfm_conversation_10024_main_019	Idc		-1	not_bullying		
+321	Askfm_conversation_10024_main_020	Do you think animals have souls?		-1	not_bullying		
+322	Askfm_conversation_10024_main_021	Yeahyeahyeahyeahyeahyeah		-1	not_bullying		
+323	Askfm_conversation_10024_main_022	Are you usually the heart breaker or the heart broken?		-1	not_bullying	-1	-1
+324	Askfm_conversation_10024_main_023	I'm the one usually who fucks up hahahaha		-1	not_bullying	-1	-1
+325	Askfm_conversation_10024_main_024	If the whole world were listening, what would you say?		-1	not_bullying		
+326	Askfm_conversation_10024_main_025	I'm not perfect, I never will be, I make mistakes and so do you? You can judge me all you want because I don't care anymore, you can blame me all you want, but one thing I'm not going to do is sit here and take everyone's bullshit you don't like me? That's fine, you can't stand me? Then tell me to go and I will.		-1	not_bullying		
+327	Askfm_conversation_10024_main_026	What’s your motto?		-1	not_bullying		
+328	Askfm_conversation_10024_main_027	suck your dads dick	{u'T2': Attacking_relatives: 1334 suck your dads dick, u'T12': Sexual_harassment: 1334 suck your dads dick, u'T1': 2_Harasser: 1332 ¶}	0	harasser		
+329	Askfm_conversation_10024_main_028	Do you smile at strangers?		-1	not_bullying		
+330	Askfm_conversation_10024_main_029	Some people stick a middle finger at me:(:(:(:(:(		-1	not_bullying		
+331	Askfm_conversation_10024_main_030	why do u gout with a year nine slag	{u'T4': Defamation: 1439 why do u gout with a, u'T3': 1_Harasser: 1437 ¶}	0	harasser		
+332	Askfm_conversation_10024_main_031	Learn English you cunt .	{u'T6': Assertive_selfdef: 1477 Learn English you cu, u'T7': General_insult: 1491 you cunt, u'T5': 1_Victim: 1475 ¶}	1	victim		
+333	Askfm_conversation_10024_main_032	"Ask :- Your Fav Name ? ^_^ // Dare :- Ask Me 4 Qoustions :D "" but not anon plz """		-1	not_bullying		
+334	Askfm_conversation_10024_main_033	Idk tbh and sure later tho x		-1	not_bullying		
+335	Askfm_conversation_10024_main_034	compliment; wow lol...you're beautiful x		-1	not_bullying		
+336	Askfm_conversation_10024_main_035	Aw thanks x		-1	not_bullying		
+337	Askfm_conversation_10024_main_036	Do you think that there are any topics that there should be more movies about?		-1	not_bullying		
+338	Askfm_conversation_10024_main_037	Idk		-1	not_bullying		
+339	Askfm_conversation_10024_main_038	r u going out wid jamaal		-1	not_bullying		
+340	Askfm_conversation_10024_main_039	No lol		-1	not_bullying		
+341	Askfm_conversation_10024_main_040	What is the best thing that has ever happened to you?		-1	not_bullying		
+342	Askfm_conversation_10024_main_041	Fuck yourself	{u'T8': 1_Harasser: 1857 ¶, u'T9': General_insult: 1859 Fuck yourself}	0	harasser	0	0
+343	Askfm_conversation_10024_main_042	What's your favorite party game?		-1	not_bullying		
+344	Askfm_conversation_10024_main_043	Have you heard the game, your mums a slag?	{u'T10': 1_Harasser: 1909 ¶, u'T11': Attacking_relatives: 1911 Have you heard the g}	0	harasser		
+345	Askfm_conversation_10024_main_044	What is the most expensive thing you've ever bought?		-1	not_bullying		
+346	Askfm_conversation_10024_main_045	Lollipop:O		-1	not_bullying		
+347	Askfm_conversation_10027_main_000	miss you..		-1	not_bullying		
+348	Askfm_conversation_10027_main_001	ok		-1	not_bullying		
+349	Askfm_conversation_10030_main_000	Ralala ! ♥		-1	not_bullying		
+350	Askfm_conversation_10030_main_001	! ♥♥♥ the perfect ;) *_*		-1	not_bullying		
+351	Askfm_conversation_10031_main_000	What is your favorite salad?		-1	not_bullying		
+352	Askfm_conversation_10031_main_001	Salad?!? I don't eat fucking salad it's rank		-1	not_bullying		
+353	Askfm_conversation_10031_main_002	What is the most expensive thing you've ever bought?		-1	not_bullying		
+354	Askfm_conversation_10031_main_003	I dunno		-1	not_bullying		
+355	Askfm_conversation_10031_main_004	Is it true that your eyes are different colours?		-1	not_bullying		
+356	Askfm_conversation_10031_main_005	Yeah :/ one is dark brown like almost black and the other is light brown, but u can't see it like all the time, u can see it in the light		-1	not_bullying		
+357	Askfm_conversation_10031_main_006	What is the very last thing you do before you settle in to fall asleep at night?		-1	not_bullying		
+358	Askfm_conversation_10031_main_007	Honestly most of the time I cry, ahaha oops		-1	not_bullying		
+359	Askfm_conversation_10031_main_008	What is the least stressful job you can think of?		-1	not_bullying		
+360	Askfm_conversation_10031_main_009	Not having a job		-1	not_bullying		
+361	Askfm_conversation_10031_main_010	What do you usually forget?		-1	not_bullying		
+362	Askfm_conversation_10031_main_011	Everything		-1	not_bullying	-1	-1
+363	Askfm_conversation_10031_main_012	Do you like to finger often in a day?	{u'T2': Sexual_harassment: 585 Do you like to finge, u'T1': 2_Harasser: 583 ¶}	0	harasser		
+364	Askfm_conversation_10031_main_013	What the fuck!?! No! U fucking weirdo	{u'T4': Assertive_selfdef: 625 What the fuck!?! No!, u'T5': General_insult: 646 U fucking weirdo, u'T3': 1_Victim: 623 ¶}	1	victim		
+365	Askfm_conversation_10031_main_014	What are the first things you notice when you meet someone?		-1	not_bullying	-1	-1
+366	Askfm_conversation_10031_main_015	eyebrows, dont even ask why		-1	not_bullying		
+367	Askfm_conversation_10031_main_016	Have you ever bought something on the internet?		-1	not_bullying		
+368	Askfm_conversation_10031_main_017	yep, ive just ordered vans and converse		-1	not_bullying		
+369	Askfm_conversation_10031_main_018	Don’t you think that everything is changing too fast?		-1	not_bullying		
+370	Askfm_conversation_10031_main_019	yes, i hate it		-1	not_bullying		
+371	Askfm_conversation_10031_main_020	It's me by the way hehe x		-1	not_bullying		
+372	Askfm_conversation_10031_main_021	Okay		-1	not_bullying		
+373	Askfm_conversation_10031_main_022	Heyy❤ someone on ask, asked me if I could pics of you and niklas is it ok with you? :) xx		-1	not_bullying		
+374	Askfm_conversation_10031_main_023	Yeah it's ok		-1	not_bullying		
+375	Askfm_conversation_10031_main_024	I want to see more photos of you and your boyfriend		-1	not_bullying		
+376	Askfm_conversation_10031_main_025	Alexandra took some of us ask her		-1	not_bullying		
+377	Askfm_conversation_10031_main_026	What is your attitude to human cloning?		-1	not_bullying	-1	-1
+378	Askfm_conversation_10031_main_027	Erm idk		-1	not_bullying	-1	-1
+379	Askfm_conversation_10031_main_028	What worries you the most?		-1	not_bullying	-1	-1
+380	Askfm_conversation_10031_main_029	Being alone, not being good enough, how I look, what people think, upsetting others, doing things wrong, being in small places, telling people how I feel and scared of loosing everyone and everything that is important to me		-1	not_bullying		
+381	Askfm_conversation_10031_main_030	Who was the last person you had a deep conversation with?		-1	not_bullying		
+382	Askfm_conversation_10031_main_031	Probably Niklas idk		-1	not_bullying		
+383	Askfm_conversation_10031_main_032	What day would you love to live again?		-1	not_bullying		
+384	Askfm_conversation_10031_main_033	The day I turned 7 I think that was honestly the last time I remember being 100% happy		-1	not_bullying		
+385	Askfm_conversation_10031_main_034	Niklas loves willow not you get over it bitch	{u'T6': 1_Harasser: 1682 ¶, u'T7': Defamation: 1684 Niklas loves willow , u'T8': General_insult: 1712 get over it bitch}	0	harasser		
+386	Askfm_conversation_10031_main_035	Ahahahahahahahahhaha		-1	not_bullying		
+387	Askfm_conversation_10031_main_036	What's the part you're living in varese (i mean like in brebbia, gavitare,azzate)?		-1	not_bullying		
+388	Askfm_conversation_10031_main_037	Like near centro		-1	not_bullying		
+389	Askfm_conversation_10031_main_038	like?		-1	not_bullying		
+390	Askfm_conversation_10031_main_039	None of ur business		-1	not_bullying		
+391	Askfm_conversation_10031_main_040	why were u crying today?		-1	not_bullying		
+392	Askfm_conversation_10031_main_041	Family stuff		-1	not_bullying		
+393	Askfm_conversation_10031_main_042	how often you take pictures with your boyfriend?		-1	not_bullying		
+394	Askfm_conversation_10031_main_043	Er I dunno :/ stalker		-1	not_bullying		
+395	Askfm_conversation_10031_main_044	what mascara do you use?		-1	not_bullying		
+396	Askfm_conversation_10031_main_045	This one		-1	not_bullying		
+397	Askfm_conversation_10031_main_046	can you speak any italian?		-1	not_bullying		
+398	Askfm_conversation_10031_main_047	Yh but like hardlyany		-1	not_bullying		
+399	Askfm_conversation_10031_main_048	What is missing in your life that would make you very happy?		-1	not_bullying	-1	-1
+400	Askfm_conversation_10031_main_049	My nan,if I could bring her back to life that would make me so happy		-1	not_bullying		
+401	Askfm_conversation_10035_main_000	@Hartszeeee Send this bitch hate, she cuts herself which is pathetic, is emo and a freak and she deserves to die.	{u'T7': General_insult: 36 she cuts herself whi, u'T4': Curse_Exclusion: 72 is emo and a freak a, u'T5': Threat_Blackmail: 95 she deserves to die., u'T2': Curse_Exclusion: 14 Send this bitch hate, u'T3': Defamation: 36 she cuts herself whi, u'T1': 2_Harasser: 0 ¶}	0	harasser	0	0
+402	Askfm_conversation_10035_main_001	How about no. And stop sending hate. It doesn't make you better than her	{u'T6': 2_Bystander_defender: 116 ¶, u'T8': General_defense: 132 And stop sending hat, u'T9': General_defense: 155 It doesn't make you }	2	defender		
+403	Askfm_conversation_10035_main_002	Hey! I follow you, add me on.. Snapchat; harrybecker Kik: hazzaboy36 or follow me on instagram: hazzaboy36 btw if you like some of my answers i'll return the favour :) send a gift for 250 likes :) I you don't want to the that's okay I totally understand		-1	not_bullying		
+404	Askfm_conversation_10035_main_003	Hey there. Nice to know you follow me. Add my kik if you want... :-)		-1	not_bullying		
+405	Askfm_conversation_10035_main_004	cake is in the oven  you can come eat some when it cools down		-1	not_bullying		
+406	Askfm_conversation_10035_main_005	Leave me alone... I ain't answering the how ever many others there are		-1	not_bullying		
+407	Askfm_conversation_10035_main_006	BELLA EDWARD IS WAITING FOR YOU		-1	not_bullying		
+408	Askfm_conversation_10035_main_007	Who are you?		-1	not_bullying		
+409	Askfm_conversation_10035_main_008	love my food buddy:***		-1	not_bullying		
+410	Askfm_conversation_10035_main_009	Aw you cutie:-) love you too:-*		-1	not_bullying		
+411	Askfm_conversation_10035_main_010	i wont 1 gift pls ^_^ and i will make 100 likes :D		-1	not_bullying		
+412	Askfm_conversation_10035_main_011	"I believe the word you're looking for is ""want"""		-1	not_bullying		
+413	Askfm_conversation_10035_main_012	only one gift ?		-1	not_bullying		
+414	Askfm_conversation_10035_main_013	Go away! I'm not giving you a gift okay?		-1	not_bullying		
+415	Askfm_conversation_10035_main_014	where ?		-1	not_bullying		
+416	Askfm_conversation_10035_main_015	I don't do gifts anymore		-1	not_bullying		
+417	Askfm_conversation_10035_main_016	send me a gift ?		-1	not_bullying		
+418	Askfm_conversation_10035_main_017	Look down...		-1	not_bullying		
+419	Askfm_conversation_10035_main_018	how many likes for a gift :)?		-1	not_bullying		
+420	Askfm_conversation_10035_main_019	You can like as many as the want, I don't give gifts anymore, sorry		-1	not_bullying		
+421	Askfm_conversation_10035_main_020	love my food buddy;-)		-1	not_bullying		
+422	Askfm_conversation_10035_main_021	Aw! Love my food buddy more;-)		-1	not_bullying		
+423	Askfm_conversation_10035_main_022	Whoever likes this ask them five questions?		-1	not_bullying	-1	-1
+424	Askfm_conversation_10035_main_023	5???? I'll do a random amount of questions if you want:-)		-1	not_bullying		
+425	Askfm_conversation_10035_main_024	Can i get gift		-1	not_bullying		
+426	Askfm_conversation_10035_main_025	Look down...		-1	not_bullying		
+427	Askfm_conversation_10035_main_026	gift plzz		-1	not_bullying		
+428	Askfm_conversation_10035_main_027	Sorry don't do gifts anymore		-1	not_bullying		
+429	Askfm_conversation_10035_main_028	Opinion on me?(sent to everyone i follow) x		-1	not_bullying		
+430	Askfm_conversation_10035_main_029	I has a follower:-) Well, you're really pretty, and seem really nice. Oh, and your music taste? Yeah it's awesome!:-) x		-1	not_bullying		
+431	Askfm_conversation_10035_main_030	What is your favorite summer song?		-1	not_bullying		
+432	Askfm_conversation_10035_main_031	Passenger - all the little lights Avicii & Aloe Blacc - wake me up Neon Trees - animal They aren't really summer songs but it's summer and they're my favourite right now:-)		-1	not_bullying		
+433	Askfm_conversation_10035_main_032	Aw your so cute:)		-1	not_bullying		
+434	Askfm_conversation_10035_main_033	Aw bet you are too. Thankyou:-)		-1	not_bullying		
+435	Askfm_conversation_10035_main_034	5 likes for anyone that likes pleaseee :)xoxoxoxo		-1	not_bullying		
+436	Askfm_conversation_10035_main_035	Okay then, since you asked nicely :-)		-1	not_bullying		
+437	Askfm_conversation_10035_main_036	What do you look like right now?		-1	not_bullying	-1	-1
+438	Askfm_conversation_10035_main_037	A mess...		-1	not_bullying	-1	-1
+439	Askfm_conversation_10038_main_000	When is ur birthday ?		-1	not_bullying		
+440	Askfm_conversation_10038_main_001	11th of december		-1	not_bullying		
+441	Askfm_conversation_10038_main_002	What scares you?		-1	not_bullying		
+442	Askfm_conversation_10038_main_003	Clowns:@		-1	not_bullying		
+443	Askfm_conversation_10038_main_004	who has drifted away from you recently?		-1	not_bullying		
+444	Askfm_conversation_10038_main_005	I'm basically losing everyone slowly:(		-1	not_bullying		
+445	Askfm_conversation_10038_main_006	Ever been cheated on?		-1	not_bullying		
+446	Askfm_conversation_10038_main_007	Ugh yeah:@		-1	not_bullying		
+447	Askfm_conversation_10038_main_008	Bestfriends?xx		-1	not_bullying		
+448	Askfm_conversation_10038_main_009	I'm not gunna even bother answering this properly right now...		-1	not_bullying		
+449	Askfm_conversation_10038_main_010	-		-1	not_bullying		
+450	Askfm_conversation_10038_main_011	Cooking with the best friend at school-.-		-1	not_bullying		
+451	Askfm_conversation_10038_main_012	How tall do you like boys/boyfriends?		-1	not_bullying		
+452	Askfm_conversation_10038_main_013	Taller than me:)but that's not difficult-_-		-1	not_bullying		
+453	Askfm_conversation_10038_main_014	What is one thing you hate when texting?		-1	not_bullying		
+454	Askfm_conversation_10038_main_015	One worded answers-_- Seriously please just give it a fucking break.		-1	not_bullying		
+455	Askfm_conversation_10038_main_016	Suck my dick beautiful?	{u'T2': Sexual_harassment: 533 Suck my dick beautif, u'T1': 2_Harasser: 531 ¶}	0	harasser		
+456	Askfm_conversation_10038_main_017	I was always told not to put small things in my mouth because of a chocking hazard...		-1	not_bullying		
+457	Askfm_conversation_10038_main_018	Honestly, it'll work :)		-1	not_bullying	-1	-1
+458	Askfm_conversation_10038_main_019	Alright:/		-1	not_bullying		
+459	Askfm_conversation_10038_main_020	Don't 'kinda' hint: just give him that big para, I'm sure he will reply! Just trust me :)!		-1	not_bullying		
+460	Askfm_conversation_10038_main_021	Hm... :/		-1	not_bullying		
+461	Askfm_conversation_10038_main_022	Well just tell him! You'll never know the truth until you face it :) trust me!		-1	not_bullying		
+462	Askfm_conversation_10038_main_023	I think I've hinted enough times,and kinda did explain:/		-1	not_bullying		
+463	Askfm_conversation_10038_main_024	Well maybe he's scared? :/ I mean if you just tell him how you feel, just pop up and write him a huge paragraph so he knows... If he doesn't reply then it's his loss but atleast you'll know :)		-1	not_bullying		
+464	Askfm_conversation_10038_main_025	:/ugh... I don't know it's like I don't wanna keep going on and sometimes it feels like he don't want nothing to do with me anymore-_-		-1	not_bullying		
+465	Askfm_conversation_10038_main_026	Have you told him this?		-1	not_bullying		
+466	Askfm_conversation_10038_main_027	Nah we don't talk anymore:/don't wanna annoy him and that-_- I miss him still thou:(		-1	not_bullying	-1	-1
+467	Askfm_conversation_10038_main_028	What was your last boyfriend like?		-1	not_bullying		
+468	Askfm_conversation_10038_main_029	Amazing,I was probably closest to him than any of the others-_-but things didn't work out so yeah... :/		-1	not_bullying	-1	-1
+469	Askfm_conversation_10038_main_030	1.Longest relationship and shortest? 2.relationship status? 3.hair colour 4.eye colour 5.birthday		-1	not_bullying		
+470	Askfm_conversation_10038_main_031	1. A year and 5 months and 2 weeks-_- 2.single:  3.blonde 4.blue 5.11th December 1998		-1	not_bullying		
+471	Askfm_conversation_10038_main_032	What are some things that make you really happy?		-1	not_bullying		
+472	Askfm_conversation_10038_main_033	Erm:/ Making other people happy probably...		-1	not_bullying		
+473	Askfm_conversation_10038_main_034	What names do you want to give to your children?		-1	not_bullying	-1	-1
+474	Askfm_conversation_10038_main_035	Jayden Leo for a boy  Amelia grace for a girl		-1	not_bullying		
+475	Askfm_conversation_10038_main_036	i need someone so bad, are you so bad ?		-1	not_bullying		
+476	Askfm_conversation_10038_main_037	Nah.		-1	not_bullying	-1	-1
+477	Askfm_conversation_10038_main_038	What is the biggest lie someone ever told you?		-1	not_bullying		
+478	Askfm_conversation_10038_main_039	I don't know:/there's been so many: 		-1	not_bullying	-1	-1
+479	Askfm_conversation_10038_main_040	Do you miss anyone?		-1	not_bullying		
+480	Askfm_conversation_10038_main_041	:(		-1	not_bullying		
+481	Askfm_conversation_10039_main_000	vowa!		-1	not_bullying	-1	-1
+482	Askfm_conversation_10039_main_002	Do you think that there are any topics that there should be more movies about?		-1	not_bullying		
+483	Askfm_conversation_10039_main_004	Me		-1	not_bullying		
+484	Askfm_conversation_10039_main_007	:)		-1	not_bullying		
+485	Askfm_conversation_1003_rest_000	Is there any person you are afraid of?		-1	not_bullying		
+486	Askfm_conversation_1003_rest_001	Got loads of Eyeliner and black Eyeshadow on..*starts raining*R u fukin kidden mi?		-1	not_bullying		
+487	Askfm_conversation_1003_rest_002	What is the most important thing your country has given to the world?		-1	not_bullying		
+488	Askfm_conversation_1003_rest_003	Got the cutest message ever o m g.		-1	not_bullying		
+489	Askfm_conversation_1003_rest_004	Do you already have Ask.fm app for iPhone?		-1	not_bullying		
+490	Askfm_conversation_1003_rest_005	I have a Blackberry.. :/		-1	not_bullying		
+491	Askfm_conversation_1003_rest_006	What's your favorite smell?		-1	not_bullying	-1	-1
+492	Askfm_conversation_1003_rest_007	Add me on BBM;  2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5  2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5  2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5  2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5  2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5  2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 2AD1E3B5 Thanks:) x		-1	not_bullying		
+493	Askfm_conversation_1003_rest_008	What is the major problem in your city?		-1	not_bullying		
+494	Askfm_conversation_1003_rest_009	Dickheads,they're everywhere.		-1	not_bullying		
+495	Askfm_conversation_1003_rest_010	How did you make your first money?		-1	not_bullying		
+496	Askfm_conversation_1003_rest_011	It wasn't mine. Lol		-1	not_bullying		
+497	Askfm_conversation_1003_rest_012	Where were you 3 hours ago?		-1	not_bullying		
+498	Askfm_conversation_1003_rest_013	Its behind you...		-1	not_bullying		
+499	Askfm_conversation_1003_rest_014	http://ask.fm/HelmyElShaarawy/answer/67378048662 like plz :)		-1	not_bullying		

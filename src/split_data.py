@@ -8,7 +8,6 @@ transformers-cyberbullying-participants
 3/24/20
 Copyright (c) Gilles Jacobs. All rights reserved.  
 """
-import settings
 import importlib.util
 import pandas as pd
 import numpy as np
@@ -52,7 +51,7 @@ if __name__ == "__main__":
         max_tok = sorted(token_cnt.tolist(), reverse=True)
         hist = token_cnt.hist(bins=256)
         plt.yscale("log")
-        plt.savefig(Path(lang_settings.MODEL_DIRP) / "token_cnt_hist.svg")
+        plt.savefig(Path(lang_settings.MODEL_DIR) / "token_cnt_hist.svg")
         plt.clf()
 
         # Collect all split data + metadata into a df
@@ -78,7 +77,7 @@ if __name__ == "__main__":
         X = dev_df["text"].to_numpy()
         y = dev_df["labels"].to_numpy()
 
-        for i, (dev_train_idc, dev_eval_idc) in enumerate(settings.CV.split(X, y)):
+        for i, (dev_train_idc, dev_eval_idc) in enumerate(lang_settings.CV.split(X, y)):
             print(
                 f"Fold {i}: {dev_train_idc.shape[0]} train inst. and {dev_eval_idc.shape[0]} eval inst."
             )
@@ -99,6 +98,8 @@ if __name__ == "__main__":
                 ignore_index=True,
             )
 
-        split_fp = Path(settings.SPLIT_DIR) / f"splits_{lang_settings.LANGUAGE}.csv"
+        split_fp = (
+            Path(lang_settings.SPLIT_DIR) / f"splits_{lang_settings.LANGUAGE}.csv"
+        )
         print(f"Writing split metadata to {split_fp}")
         split_df.to_csv(split_fp, index=False)

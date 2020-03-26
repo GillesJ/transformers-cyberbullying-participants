@@ -40,6 +40,7 @@ if __name__ == "__main__":
 
     for settings_fp in Path(".").glob("**/settings_*.py"):
 
+        print(f"Processing data for {settings_fp.name}")
         raw_fp, opt_fp = load_paths_settings(settings_fp)
 
         df = pd.read_csv(raw_fp, sep="\t", index_col="Unnamed: 0")
