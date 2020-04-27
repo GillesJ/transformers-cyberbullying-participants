@@ -42,18 +42,6 @@ if __name__ == "__main__":
         print(f"Loading and splitting dataset {data_fp}")
         df = pd.read_csv(data_fp, sep="\t")
 
-        # max token seq
-        def tok_cnt(s):
-            return len(s.split())
-
-        # Check token length
-        token_cnt = df.text.map(tok_cnt)
-        max_tok = sorted(token_cnt.tolist(), reverse=True)
-        hist = token_cnt.hist(bins=256)
-        plt.yscale("log")
-        plt.savefig(Path(lang_settings.MODEL_DIR) / "token_cnt_hist.svg")
-        plt.clf()
-
         # Collect all split data + metadata into a df
         split_df = pd.DataFrame(columns=["split_name", "train_idc", "eval_idc",])
         # Add holdin dev - holdout test split and save indices for reference to preprocessed full dataset

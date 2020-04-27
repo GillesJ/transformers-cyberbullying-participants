@@ -12,7 +12,7 @@ sentivent_event_sentence_classification
 12/12/19
 Copyright (c) Gilles Jacobs. All rights reserved.  
 """
-import settings_test as settings
+import settings_en as settings
 import operator
 from functools import reduce
 import pandas as pd
@@ -23,7 +23,6 @@ from pathlib import Path
 import json
 from sklearn.metrics import (
     precision_recall_fscore_support,
-    confusion_matrix,
     accuracy_score,
     roc_auc_score,
 )
@@ -223,11 +222,12 @@ def make_score_summaries(model_dirp):
 if __name__ == "__main__":
 
     # 1. Set model path and load labels and predictions
-    model_dir = Path(settings.MODEL_DIR)
-    model_dirn = (
-        "test_roberta-large_epochs-1"  # 10 fold run 16 epoch PRETTY GOOD RESULTS
-    )
-    model_dirpath = model_dir / model_dirn
-
+    model_dirn = "en_roberta-base_epochs-4_seq-256"
+    model_dirpath = Path(settings.MODEL_DIR) / "extra-test" / model_dirn
+    print(model_dirpath)
     # 3.Score preds and write summary
     summary_df = make_score_summaries(model_dirpath)
+
+    print(
+        f"{model_dirn} f1_macro xval: {summary_df.at['f1_macro', 'xval_mean']} f1_macro holdout {summary_df.at['f1_macro', 'dev-holdout']}"
+    )

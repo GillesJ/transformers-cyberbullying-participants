@@ -2,12 +2,12 @@
 """
 Crossvalidation text-classification pipeline full run-through.
 
-xval_en.py
+run_xval_experiment.py
 transformers-cyberbullying-participants 
 3/24/20
 Copyright (c) Gilles Jacobs. All rights reserved.  
 """
-import settings_en as settings
+import settings
 import numpy as np
 import socket
 import pandas as pd
@@ -74,7 +74,10 @@ def train_eval(train_df, eval_df, output_dirp):
 if __name__ == "__main__":
 
     # set experiment output dir
-    modelname = f"{settings.LANGUAGE}_{settings.MODEL_SETTINGS['model_name']}_epochs-{settings.MODEL_SETTINGS['train_args']['num_train_epochs']}"
+    m_name = settings.MODEL_SETTINGS["model_name"]
+    n_epochs = settings.MODEL_SETTINGS["train_args"]["num_train_epochs"]
+    seq_length = settings.MODEL_SETTINGS["train_args"]["max_seq_length"]
+    modelname = f"{settings.LANGUAGE}_{m_name}_epochs-{n_epochs}_seq-{seq_length}"
     experiment_dirp = Path(settings.MODEL_DIR) / modelname
 
     # load dataset
