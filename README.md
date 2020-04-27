@@ -1,5 +1,6 @@
 # AMiCA Cyberbullying Participants Transformer-based Classification
 Post-level cyberbullying participant text classification experiments for the AMiCA Cyberbullying dataset.
+Pipeline for fine-tuning pretrained transformer models on participant classification.
 Part of NLE submission.
 
 ## Docker container
