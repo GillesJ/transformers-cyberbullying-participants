@@ -7,6 +7,14 @@ Source code of the manuscript "Automatic Classification of Participant Roles in 
 - using Pipenv + Pipfile: `pipenv install`
 - docker container with full GPU stack to be made available on Dockerhub.
 
+## Usage
+- `src/settings.py` Set model hyperparameters, architecture and experiment settings.
+- `src/run_xval_experiments.py` Runs a full crossvalidation training + holdout-experiments run.
+- `src/score_predictions.py` Collects predictions of runs and makes a score-overview using several evaluation metrics.
+- `src/process_data` Pre-process raw data in `data/raw` to intermediate format. Output in `data/processed`. Utility script, not necessary to run for experiment reproduction.
+- `src/split_data` Make xval and holdout splits. Output is in `data/split`. Utility script, not necessary to run for experiment reproduction.
+- other scripts are utility scripts that are self-explanatory and not necessary for experiment reproduction.
+
 ## Results
 
 **English**:
