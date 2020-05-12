@@ -1,49 +1,15 @@
 # AMiCA Cyberbullying Participants Transformer-based Classification
 Post-level cyberbullying participant text classification experiments for the AMiCA Cyberbullying dataset.
 Pipeline for fine-tuning pretrained transformer models on participant classification.
-Part of NLE submission.
+Source code of the manuscript "Automatic Classification of Participant Roles in Cyberbullying: Can we detect victims, bullies, andbystanders in social media text?".
 
-## Docker container
-on weoh containername = cbpart
-
-TODO POST CONTAINER ENV to DOCKERHUB WITH CODE BUT LEAVE OUT DATA
-
-## Install (manual)
-This depends on the package [SimpleTransformers](https://github.com/ThilinaRajapakse/simpletransformers).
-
-`pipenv install --python 3.7.5 simpletransformers torch pandas torchvision`
-
-or with Pipfile: `pipenv install`
-
-! SET ENV_VAR `CUDA_VISIBLE_DEVICES`: `export CUDA_VISIBLE_DEVICES=0`
-
-##Tensorboard for checking loss and accuracy
-You need to install Tensorflow to use Tensorboard on your client (simpletransformers actually uses the PyTorch-fork tensorboardx for its tensorboard output and does not depend on TF.):
-First install a python version compatible with TF (latest=3.7.5 as of writing):
-`pyenv install 3.7.5`
-Now install TensorFlow
-`pipx install --python /home/gilles/.pyenv/versions/3.7.5/bin/python tensorflow`
-Now run the Tensorboard command on the run dir which was created during training:
-`tensorboard`
-
-## Utility commands
-- Remove large output files: checkpoints and epoch binaries (DELETES BACKUP)
-1. Change to experiment dir: `cd RUNDIR`
-2. Check what you are removing `find . \( -name "epoch*" -or -name "checkpoint*" \) -exec echo "{}" \;`
-3. Remove it `find . \( -name "epoch*" -or -name "checkpoint*" \) -exec rm -r "{}" \; -prune`
-
-## Model and experiment notes
-
-- Choice of Dutch language model: 2 available pre-trained options: RobBERT and BERTje
+## Install
+- using Pipenv + Pipfile: `pipenv install`
+- docker container with full GPU stack to be made available on Dockerhub.
 
 ## Results
 
 **English**:
-
-Best model in current manuscript:
-- CASCADE: f1_macro xval: 55.19 f1_macro holdout: 55.67
-
-Transformer experiments:
 - BEST en_roberta-base_epochs-4_seq-256 f1_macro xval: 0.602471 f1_macro holdout 0.5583992223036653
 - en_roberta-base_epochs-16_seq-256: f1_macro xval: 0.578473 f1_macro holdout 0.6237261658903018
 - en_roberta-base_epochs-8_seq-256 f1_macro xval: 0.578601 f1_macro holdout 0.6085872969255104
@@ -64,11 +30,6 @@ Transformer experiments:
 - BAD en_bert-large-uncased_epochs-16_seq-256: INCOMPLETE RUN but HOLDOUT BAD predicts only majority: f1_macro xval: nan f1_macro holdout 0.2442530028341356
 
 **Dutch**:
-
-Best model in current manuscript:
-- Cascading + FS: f1_macro xval: 0.5153 f1_macro holdout 0.5437
-
-Transformer experiments:
 - BEST nl_pdelobelle/robBERT-base_epochs-4_seq-256 f1_macro xval: 0.549166 f1_macro holdout 0.5673304389312812
 - NL_ROBBERT-BASE_EPOCHS-16_SEQ-256 f1_macro xval: 0.530336 f1_macro holdout 0.5640263470933217
 - NL_ROBBERT-BASE_EPOCHS-8_SEQ-256 f1_macro xval: 0.531273 f1_macro holdout 0.5347052061666936
